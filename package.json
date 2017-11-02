@@ -1,0 +1,15 @@
+{
+  "name": "how-to-write-your-own-webpack",
+  "version": "1.0.0",
+  "description": "const",
+  "main": "index.js",
+  "scripts": {
+    "build": "node src/index.js --entry ./demo/test.js --output ./demo/output.js"
+  },
+  "author": "Alex Liu",
+  "license": "MIC",
+  "devDependencies": {
+    "commander": "^2.11.0",
+    "esprima": "^4.0.0"
+  }
+}
