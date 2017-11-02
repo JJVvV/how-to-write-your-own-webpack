@@ -1,6 +1,6 @@
 ## how-to-write-your-own-webpack
 
-A simple file bundle implementation just like webpack
+A simple file bundle implementation just like webpack.
 
 ## Usage
 
